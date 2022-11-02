@@ -13,6 +13,7 @@ nav{
 	display: flex;
 	justify-content: flex-end;
 	margin: auto 0;
+
 }
 li{
 	display: inline;
@@ -20,53 +21,30 @@ li{
 }
 .header{
 	background: #3B4050;
-	padding: 15vh 0;
+	height: 70vh;
+	padding: 0 auto;
 }
 .header_content{
 	width: 90%;
-	margin: auto;
+	margin: 0 auto;
 }
-.header h1{
-	font-size: 3rem;
+h1{
+	font-size: 5rem;
 	color: white;
 }
 span{
-	font-size: 3rem;
+	font-size: 5rem;
 	color: #A59678;
 }
 .header p{
 	font-size: 1.3rem;
 	color: white;
-	margin-top: 1rem;
-	margin-bottom: 2rem;
-}
-.header a{
-	font-size: 1.3rem;
-	text-decoration: none;
-	color: white;
-	font-weight: bold;
-	padding: 0.7rem 1rem 0.5rem 1rem;
-	background: #A59678;
-	border-radius: 100px;
 }
 .row_1{
-	background:#F0F0F0;
-}
-.col{
-	width: 50%;
-	text-align: center;
-	padding: 1rem 0;
-	margin: 0 auto;
-}
-.col h2{
-	color: #A59678;
+	background:#6F737F;
 }
 .row_2{
-}
-.row_2 .col{
 	background: #3B4050;
-	color: white;
-	margin: 1rem auto;
 }
 .footer{
 	background: #3B4050;
